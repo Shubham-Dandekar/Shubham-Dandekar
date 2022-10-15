@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 <div>
   <img
     width="49.5%"
-    src="https://github-readme-stats.vercel.app/api?username=shubham-dandekar&show_icons=true&locale=en"
+    src="https://github-readme-stats.vercel.app/api?username=Shubham-Dandekar&theme=dark&hide_border=false&include_all_commits=false&count_private=false"
     alt="shubham-dandekar"
   />
   <img
     width="49.5%"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-dandekar&"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham-Dandekar&theme=dark&hide_border=false"
     alt="shubham-dandekar"
   />
 </div>
@@ -29,19 +29,19 @@ Here are some ideas to get you started:
 <div>
   <img
     width="49.5%"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham-dandekar&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-Dandekar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
     alt="shubham-dandekar"
   />
   <img
     width="49.5%" height="160px"
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
     alt="shubham-dandekar"
   />
 </div>
 <a href="https://github.com/ryo-ma/github-profile-trophy" />
   <img
     width="99%"
-    src="https://github-profile-trophy.vercel.app/?username=shubham-dandekar"
+    src="https://github-profile-trophy.vercel.app/?username=Shubham-Dandekar&theme=radical&no-frame=false&no-bg=false&margin-w=4"
     alt="shubham-dandekar"
   />
 </a>
