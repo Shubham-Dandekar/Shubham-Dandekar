@@ -75,7 +75,8 @@ Here are some ideas to get you started:
 <p>
   <img
     align="right"
-    src="https://github-readme-stats.vercel.app/api?username=shubham-dandekar&show_icons=true&locale=en&layout=compact"
+    width="200px"
+    src="https://github-readme-stats.vercel.app/api?username=shubham-dandekar&show_icons=true&locale=en"
     alt="shubham-dandekar"
   />
 </p>
