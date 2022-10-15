@@ -91,14 +91,14 @@ Here are some ideas to get you started:
   />
 </p>
 
-<p>
+<div border-radius="10px">
   <img
-    align="right" width="47.5%" border-radius="10px"
+    align="right" width="47.5%"
     src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"
     alt="shubham-dandekar"
   />
 
-</p>
+</div>
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
