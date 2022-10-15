@@ -56,7 +56,7 @@ Here are some ideas to get you started:
     </p>
   </div>
   <div>
-    <img width="49.5%" src="/Animation.gif" />
+    <img width="49.5%" align="right" src="/Animation.gif" />
   </div>
 </div>
 
