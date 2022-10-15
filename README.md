@@ -18,14 +18,6 @@ Here are some ideas to get you started:
 
 <img align="right" width="400" src="/Animation.gif" />
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"
-    ><img
-      src="https://github-profile-trophy.vercel.app/?username=shubham-dandekar"
-      alt="shubham-dandekar"
-  /></a>
-</p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/shubham-dandekar" target="blank"
@@ -78,6 +70,14 @@ Here are some ideas to get you started:
     src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham-dandekar&show_icons=true&locale=en&layout=compact"
     alt="shubham-dandekar"
   />
+</p>
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"
+    ><img
+      src="https://github-profile-trophy.vercel.app/?username=shubham-dandekar"
+      alt="shubham-dandekar"
+  /></a>
 </p>
 
 <p>
