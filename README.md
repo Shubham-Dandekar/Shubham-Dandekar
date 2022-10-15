@@ -62,7 +62,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<br /><br /><br /><br /><br />
+<br /><br />
 
 <p>
   <img
@@ -72,17 +72,9 @@ Here are some ideas to get you started:
   />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"
-    ><img
-      src="https://github-profile-trophy.vercel.app/?username=shubham-dandekar"
-      alt="shubham-dandekar"
-  /></a>
-</p>
-
 <p>
   <img
-    align="center"
+    align="right"
     src="https://github-readme-stats.vercel.app/api?username=shubham-dandekar&show_icons=true&locale=en"
     alt="shubham-dandekar"
   />
@@ -94,6 +86,16 @@ Here are some ideas to get you started:
     src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-dandekar&"
     alt="shubham-dandekar"
   />
+</p>
+
+<br /><br />
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"
+    ><img
+      src="https://github-profile-trophy.vercel.app/?username=shubham-dandekar"
+      alt="shubham-dandekar"
+  /></a>
 </p>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
