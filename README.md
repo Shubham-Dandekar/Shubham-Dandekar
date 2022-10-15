@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/shubham-dandekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-dandekar" height="30" width="40" /></a>
 </p>
 
-<h3 align="left" margin-bottom="50px">💻 Tech Stack:</h3>
+<h3 align="left" margin-bottom="500px">💻 Tech Stack:</h3>
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="/Logo/java.svg" alt="java" width="40" height="40" />
