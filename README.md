@@ -55,16 +55,28 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-# 📊 GitHub Stats:
+<p>
+  <img
+    align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham-dandekar&show_icons=true&locale=en&layout=compact"
+    alt="shubham-dandekar"
+  />
+</p>
 
-![](https://github-readme-stats.vercel.app/api?username=Shubham-Dandekar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shubham-Dandekar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-Dandekar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p>
+  &nbsp;<img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=shubham-dandekar&show_icons=true&locale=en"
+    alt="shubham-dandekar"
+  />
+</p>
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Shubham-Dandekar&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
+<p>
+  <img
+    align="center"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-dandekar&"
+    alt="shubham-dandekar"
+  />
+</p>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
