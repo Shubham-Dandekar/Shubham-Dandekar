@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 <div>
   <img
     width="49.5%"
-    src="https://github-readme-stats.vercel.app/api?username=Shubham-Dandekar&theme=dark&hide_border=false&include_all_commits=false&count_private=false"
+    src="https://github-readme-stats.vercel.app/api?username=Shubham-Dandekar&theme=default&hide_border=false&include_all_commits=false&count_private=false"
     alt="shubham-dandekar"
   />
   <img
@@ -85,6 +85,9 @@ Here are some ideas to get you started:
     alt="shubham-dandekar"
   />
 </div>
+
+<br /><br /><br />
+
 <a href="https://github.com/ryo-ma/github-profile-trophy" />
   <img
     width="99%"
