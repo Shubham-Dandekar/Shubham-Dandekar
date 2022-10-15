@@ -66,22 +66,12 @@ Here are some ideas to get you started:
 
 <p>
   <img
-    align="right"
+    align="left"
     width="450px"
     src="https://github-readme-stats.vercel.app/api?username=shubham-dandekar&show_icons=true&locale=en"
     alt="shubham-dandekar"
   />
 </p>
-
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham-dandekar&show_icons=true&locale=en&layout=compact"
-    alt="shubham-dandekar"
-  />
-</p>
-
-<br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 <p>
   <img
@@ -92,9 +82,19 @@ Here are some ideas to get you started:
 
 </p>
 
+<br /><br /><br /><br /><br /><br /><br /><br /><br />
+
 <p>
   <img
-    align="left" width="50%"
+    align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham-dandekar&show_icons=true&locale=en&layout=compact"
+    alt="shubham-dandekar"
+  />
+</p>
+
+<p>
+  <img
+    align="right" width="50%"
     src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-dandekar&"
     alt="shubham-dandekar"
   />
