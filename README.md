@@ -81,6 +81,8 @@ Here are some ideas to get you started:
   />
 </p>
 
+<br />
+
 <p>
   <img
     align="center"
@@ -89,7 +91,7 @@ Here are some ideas to get you started:
   />
 </p>
 
-<br /><br />
+<br />
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
