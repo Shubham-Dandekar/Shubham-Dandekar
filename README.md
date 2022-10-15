@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 # 💻 Tech Stack:
 
-![Java](/Logo/java.svg {width=100px height=100px}) ![JavaScript](/Logo/javascript.svg) ![CSS3](/Logo/css-3.svg) ![HTML5](/Logo/html-5.svg) ![AWS](/Logo/aws.svg) ![Netlify](/Logo/netlify.svg) ![Spring](/Logo/spring.svg) ![MySQL](/Logo/mysql.svg) ![Postman](/Logo/postman.svg)
+![Java](/Logo/java.svg) ![JavaScript](/Logo/javascript.svg) ![CSS3](/Logo/css-3.svg) ![HTML5](/Logo/html-5.svg) ![AWS](/Logo/aws.svg) ![Netlify](/Logo/netlify.svg) ![Spring](/Logo/spring.svg) ![MySQL](/Logo/mysql.svg) ![Postman](/Logo/postman.svg)
 
 # 📊 GitHub Stats:
 
