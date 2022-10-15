@@ -99,9 +99,9 @@ Here are some ideas to get you started:
 
 </p>
 
-<br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
-<p align="left">
+<p align="center" width="80%" margin="auto">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
       src="https://github-profile-trophy.vercel.app/?username=shubham-dandekar"
