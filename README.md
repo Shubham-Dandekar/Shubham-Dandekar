@@ -13,6 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h1 align="center">Hi 👋, I'm Shubham Dandekar</h1>
+<h3 align="center">An aspiring Java Backend Developer studying at Masai School.</h3>
+
+<img align="right" width="400" src="/Animation.gif" />
+
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-dandekar)
