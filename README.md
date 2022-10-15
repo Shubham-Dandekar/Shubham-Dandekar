@@ -68,7 +68,7 @@ Here are some ideas to get you started:
   />
   <img
     width="49.5%"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham-Dandekar&theme=dark&hide_border=false"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham-Dandekar&theme=default&hide_border=false"
     alt="shubham-dandekar"
   />
 </div>
@@ -76,12 +76,12 @@ Here are some ideas to get you started:
 <div>
   <img
     width="49.5%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-Dandekar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-Dandekar&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
     alt="shubham-dandekar"
   />
   <img
     width="49.5%"
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&hide_border=false"
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default&hide_border=false"
     alt="shubham-dandekar"
   />
 </div>
