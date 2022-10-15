@@ -92,13 +92,13 @@ Here are some ideas to get you started:
 </p>
 
   <img
-    align="right" width="45%"
+    align="right" width="52%"
     src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"
     alt="shubham-dandekar"
   />
 </p>
 
-<br />
+<br /><br /><br /><br /><br />
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
