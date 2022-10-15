@@ -86,7 +86,7 @@ Here are some ideas to get you started:
   />
 </div>
 
-<br /><br /><br />
+<br />
 
 <a href="https://github.com/ryo-ma/github-profile-trophy" />
   <img
