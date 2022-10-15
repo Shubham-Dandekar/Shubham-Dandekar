@@ -33,7 +33,7 @@ Here are some ideas to get you started:
     alt="shubham-dandekar"
   />
   <img
-    width="47%" height="100%"
+    width="47%" height="200px"
     src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"
     alt="shubham-dandekar"
   />
