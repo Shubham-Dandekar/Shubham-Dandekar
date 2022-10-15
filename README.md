@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 
 <div>
   <img
-    width="47%"
+    width="49%"
     src="https://github-readme-stats.vercel.app/api?username=shubham-dandekar&show_icons=true&locale=en"
     alt="shubham-dandekar"
   />
   <img
-    width="47%"
+    width="49%"
     src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-dandekar&"
     alt="shubham-dandekar"
   />
@@ -28,12 +28,12 @@ Here are some ideas to get you started:
 
 <div>
   <img
-    width="47%"
+    width="49%"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham-dandekar&show_icons=true&locale=en&layout=compact"
     alt="shubham-dandekar"
   />
   <img
-    width="47%" height="160px"
+    width="49%" height="160px"
     src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"
     alt="shubham-dandekar"
   />
