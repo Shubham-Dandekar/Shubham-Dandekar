@@ -91,7 +91,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/ryo-ma/github-profile-trophy" />
   <img
     width="99%"
-    src="https://github-profile-trophy.vercel.app/?username=Shubham-Dandekar&theme=radical&no-frame=false&no-bg=false&margin-w=4"
+    src="https://github-profile-trophy.vercel.app/?username=Shubham-Dandekar&theme=dracula&no-frame=false&no-bg=false&margin-w=4"
     alt="shubham-dandekar"
   />
 </a>
