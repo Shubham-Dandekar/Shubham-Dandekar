@@ -13,14 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="display: flex; width: 100%">
-  <div style="width: 50%">
+<div>
+  <div width= "47%">
     <img
       src="https://github-readme-stats.vercel.app/api?username=shubham-dandekar&show_icons=true&locale=en"
       alt="shubham-dandekar"
     />
   </div>
-  <div style="width: 50%">
+  <div width= "47%">
     <img
       src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-dandekar&"
       alt="shubham-dandekar"
