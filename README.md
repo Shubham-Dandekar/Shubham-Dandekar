@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 # 💻 Tech Stack:
 
-![Java](/java.gif) ![JavaScript](/javascript.gif) ![CSS3](/css3.png) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) ![Netlify](/netlify.png) ![Spring](https://www.vectorlogo.zone/logos/springio/springio-icon.svg) ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg) ![Postman](/postman.png)
+![Java](/java.gif) ![JavaScript](/javascript.gif) ![CSS3](/css3.png) ![HTML5](/html5.png) ![AWS](/aws.png) ![Netlify](/netlify.png) ![Spring]() ![MySQL]() ![Postman](/postman.png)
 
 # 📊 GitHub Stats:
 
