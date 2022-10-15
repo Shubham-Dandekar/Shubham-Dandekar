@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 
 <p>
   <img
-    align="center"
+    align="center" margin="auto"
     src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-dandekar&"
     alt="shubham-dandekar"
   />
