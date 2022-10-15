@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h3 align="center">An aspiring Java Backend Developer studying at Masai School.</h3>
 
 <div>
-  <div width="49.5%">
+  <div>
     <h3 align="left">💻 Tech Stack:</h3>
     <p align="left">
       <a href="https://www.java.com" target="blank" rel="noreferrer">
@@ -55,8 +55,8 @@ Here are some ideas to get you started:
       </a>
     </p>
   </div>
-  <div width="49.5%">
-    <img src="/Animation.gif" />
+  <div>
+    <img width="49.5%" src="/Animation.gif" />
   </div>
 </div>
 
