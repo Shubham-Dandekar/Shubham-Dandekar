@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 <p>
   <img
     align="left"
-    width="450px"
+    width="47.5%"
     src="https://github-readme-stats.vercel.app/api?username=shubham-dandekar&show_icons=true&locale=en"
     alt="shubham-dandekar"
   />
@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 
 <p>
   <img
-    align="right" width="45%"
+    align="right" width="47.5%"
     src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"
     alt="shubham-dandekar"
   />
