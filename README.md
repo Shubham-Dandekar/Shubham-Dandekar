@@ -62,7 +62,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<br /><br />
+<br /><br /><br /><br />
 
 <p>
   <img
@@ -91,14 +91,14 @@ Here are some ideas to get you started:
   />
 </p>
 
-<div border-radius="10px">
+<p>
   <img
     align="right" width="47.5%"
     src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"
     alt="shubham-dandekar"
   />
 
-</div>
+</p>
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
