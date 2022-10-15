@@ -92,7 +92,7 @@ Here are some ideas to get you started:
 </p>
 
   <img
-    align="right" width="52%"
+    align="right" width="50%"
     src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"
     alt="shubham-dandekar"
   />
