@@ -81,7 +81,7 @@ Here are some ideas to get you started:
   />
   <img
     width="49.5%" height="160px"
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
+    src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox"
     alt="shubham-dandekar"
   />
 </div>
