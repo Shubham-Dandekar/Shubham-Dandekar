@@ -38,3 +38,10 @@ Here are some ideas to get you started:
     alt="shubham-dandekar"
   />
 </div>
+<a href="https://github.com/ryo-ma/github-profile-trophy" />
+  <img
+    width="100%"
+    src="https://github-profile-trophy.vercel.app/?username=shubham-dandekar"
+    alt="shubham-dandekar"
+  />
+</a>
