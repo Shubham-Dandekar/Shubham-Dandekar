@@ -80,7 +80,7 @@ Here are some ideas to get you started:
     alt="shubham-dandekar"
   />
   <img
-    width="49.5%" height="160px"
+    width="49.5%"
     src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox"
     alt="shubham-dandekar"
   />
