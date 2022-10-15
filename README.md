@@ -85,8 +85,15 @@ Here are some ideas to get you started:
 
 <p>
   <img
-    align="center" width="100%"
+    align="left" width="45%"
     src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-dandekar&"
+    alt="shubham-dandekar"
+  />
+</p>
+
+  <img
+    align="right" width="45%"
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"
     alt="shubham-dandekar"
   />
 </p>
@@ -101,4 +108,3 @@ Here are some ideas to get you started:
   /></a>
 </p>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
