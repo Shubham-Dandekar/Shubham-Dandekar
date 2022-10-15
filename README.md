@@ -79,7 +79,9 @@ Here are some ideas to get you started:
     src="https://github-readme-stats.vercel.app/api?username=shubham-dandekar&show_icons=true&locale=en"
     alt="shubham-dandekar"
   />
-</p><br /><br /><br />
+</p>
+
+<br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 <p>
   <img
