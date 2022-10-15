@@ -18,11 +18,6 @@ Here are some ideas to get you started:
 
 <img align="right" width="400" src="/Animation.gif" />
 
-<h1 align="center">Hi 👋, I'm Shubham Dandekar</h1>
-<h3 align="center">
-  An aspiring Java Backend Developer studying at Masai School.
-</h3>
-
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
@@ -86,7 +81,7 @@ Here are some ideas to get you started:
 </p>
 
 <p>
-  &nbsp;&nbsp;&nbsp;<img
+  &nbsp;<img
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=shubham-dandekar&show_icons=true&locale=en"
     alt="shubham-dandekar"
