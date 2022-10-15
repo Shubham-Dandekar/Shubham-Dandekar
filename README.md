@@ -14,16 +14,14 @@ Here are some ideas to get you started:
 -->
 
 <div>
-  <div width= "47%">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=shubham-dandekar&show_icons=true&locale=en"
-      alt="shubham-dandekar"
-    />
-  </div>
-  <div width= "47%">
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-dandekar&"
-      alt="shubham-dandekar"
-    />
-  </div>
+  <img
+    width="47%"
+    src="https://github-readme-stats.vercel.app/api?username=shubham-dandekar&show_icons=true&locale=en"
+    alt="shubham-dandekar"
+  />
+  <img
+    width="47%"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-dandekar&"
+    alt="shubham-dandekar"
+  />
 </div>
