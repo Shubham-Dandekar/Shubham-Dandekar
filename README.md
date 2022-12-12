@@ -1,97 +1,43 @@
-<!--
-**Shubham-Dandekar/Shubham-Dandekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Logo](https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif)
 
-Here are some ideas to get you started:
+## Hi, I'm Shubham Dandekar 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👩‍💻 I'm currently working on Bus Reservation System...
 
-<h1 align="center">Hi 👋, I'm Shubham Dandekar</h1>
-<h3 align="center">An aspiring Java Backend Developer studying at Masai School.</h3>
+🧠 I'm currently learning Java Backend Development...
 
-<div>
-  <div>
-    <h3 align="left">💻 Tech Stack:</h3>
-    <p align="left">
-      <a href="https://www.java.com" target="blank" rel="noreferrer">
-        <img src="/Logo/java.svg" alt="java" width="40" height="40" />
-      </a>
-      <a href="https://spring.io/" target="blank" rel="noreferrer">
-        <img src="/Logo/spring.svg" alt="spring" width="40" height="40" />
-      </a>
-      <a
-        href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-        target="blank"
-        rel="noreferrer"
-      >
-        <img
-          src="/Logo/javascript.svg"
-          alt="javascript"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://aws.amazon.com" target="blank" rel="noreferrer">
-        <img src="/Logo/aws.svg" alt="aws" width="40" height="40" />
-      </a>
-      <a href="https://www.w3.org/html/" target="blank" rel="noreferrer">
-        <img src="/Logo/html-5.svg" alt="html5" width="40" height="40" />
-      </a>
-      <a href="https://www.w3schools.com/css/" target="blank" rel="noreferrer">
-        <img src="/Logo/css-3.svg" alt="css3" width="40" height="40" />
-      </a>
-      <a href="https://www.mysql.com/" target="blank" rel="noreferrer">
-        <img src="/Logo/mysql.svg" alt="mysql" width="40" height="40" />
-      </a>
-      <a href="https://postman.com" target="blank" rel="noreferrer">
-        <img src="/Logo/postman.svg" alt="postman" width="40" height="40" />
-      </a>
-    </p>
-  </div>
-  <div>
-    <img width="49.5%" align="right" src="/Animation.gif" />
-  </div>
-</div>
+📫 Reach me at shubhamdandekar4@gmail.com
 
-<div>
-  <img
-    width="49.5%"
-    src="https://github-readme-stats.vercel.app/api?username=Shubham-Dandekar&theme=default&hide_border=false&include_all_commits=false&count_private=false"
-    alt="shubham-dandekar"
-  />
-  <img
-    width="49.5%"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham-Dandekar&theme=default&hide_border=false"
-    alt="shubham-dandekar"
-  />
-</div>
+## 🚀 About Me
 
-<div>
-  <img
-    width="49.5%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-Dandekar&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
-    alt="shubham-dandekar"
-  />
-  <img
-    width="49.5%"
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default&hide_border=false"
-    alt="shubham-dandekar"
-  />
-</div>
+An enthusiastic Java Developer with a strong command of Java.
+A collaborative and goal-oriented team player who excels at
+working with interdisciplinary teams and completing projects
+on time and within budget. A good fit for time-bound projects
+and an adaptable personality in challenging environments. An
+enthusiastic problem solver, dedicated to solving problems and
+being punctual-looking for an opportunity to work on improving
+the experience of the products as a Software Developer.
 
-<br />
+## 🔗 Social Media Links
 
-<a href="https://github.com/ryo-ma/github-profile-trophy" />
-  <img
-    width="99%"
-    src="https://github-profile-trophy.vercel.app/?username=Shubham-Dandekar&theme=dracula&no-frame=false&no-bg=false&margin-w=4"
-    alt="shubham-dandekar"
-  />
-</a>
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+
+## 🛠 Skills
+
+![HTML](./Logo/html-icon.png)
+![CSS](./Logo/css-icon.png)
+![JavaScript](./Logo/javascript-icon.png)
+![Java](./Logo/java-icon.png)
+![MySQL](./Logo/mysql-icon.png)
+![SpringBoot](./Logo/spring-icon.png)
+![HiberNate](./Logo/hibernate-icon.png)
+![AWS](./Logo/aws-icon.png)
+![Git](./Logo/git.png)
+
+![Logo](https://github-readme-stats.vercel.app/api?username=Shubham-Dandekar&theme=default&hide_border=false&include_all_commits=false&count_private=false)
+![Logo](https://github-readme-streak-stats.herokuapp.com/?user=Shubham-Dandekar&theme=default&hide_border=false)
+![Logo](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-Dandekar&card_width=500&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Logo](https://github-profile-trophy.vercel.app/?username=Shubham-Dandekar&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
