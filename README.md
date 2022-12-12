@@ -19,6 +19,20 @@ enthusiastic problem solver, dedicated to solving problems and
 being punctual-looking for an opportunity to work on improving
 the experience of the products as a Software Developer.
 
+## Education
+
+1. Full Stack Web Development (Full Time)
+   Masai School, Bengaluru
+   05/2022 – present
+
+2. B.E. Electrical (Electronics & Power) Engineering
+   Rajiv Gandhi College of Engineering, Research and Technology, Chandrapur, Maharashtra
+   07/2016 – 08/2019
+
+3. Diploma In Electrical Engineering
+   Bajaj's Chandrapur Polytechnic, Chandrapur, Maharashtra
+   08/2013 – 07/2016
+
 ## 🔗 Social Media Links
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://shubham-dandekar.github.io/)
