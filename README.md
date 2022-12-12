@@ -22,15 +22,23 @@ the experience of the products as a Software Developer.
 ## Education
 
 1. Full Stack Web Development (Full Time)
+   <br/>
    Masai School, Bengaluru
+   <br/>
    05/2022 – present
+   <br/>
 
 2. B.E. Electrical (Electronics & Power) Engineering
+   <br/>
    Rajiv Gandhi College of Engineering, Research and Technology, Chandrapur, Maharashtra
+   <br/>
    07/2016 – 08/2019
+   <br/>
 
 3. Diploma In Electrical Engineering
+   <br/>
    Bajaj's Chandrapur Polytechnic, Chandrapur, Maharashtra
+   <br/>
    08/2013 – 07/2016
 
 ## 🔗 Social Media Links
