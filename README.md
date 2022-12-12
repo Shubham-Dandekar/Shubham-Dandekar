@@ -21,21 +21,21 @@ the experience of the products as a Software Developer.
 
 ## 🔗 Social Media Links
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://shubham-dandekar.github.io/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-dandekar/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 ## 🛠 Skills
 
-![HTML](./Logo/html-icon.png)
-![CSS](./Logo/css-icon.png)
-![JavaScript](./Logo/javascript-icon.png)
-![Java](./Logo/java-icon.png)
-![MySQL](./Logo/mysql-icon.png)
-![SpringBoot](./Logo/spring-icon.png)
-![HiberNate](./Logo/hibernate-icon.png)
-![AWS](./Logo/aws-icon.png)
-![Git](./Logo/git.png)
+<img src="./Logo/html-icon.png" alt="">
+<img src="./Logo/css-icon.png" alt="">
+<img src="./Logo/javascript-icon.png" alt="">
+<img src="./Logo/java-icon.png" alt="">
+<img src="./Logo/mysql-icon.png" alt="">
+<img src="./Logo/spring-icon.png" alt="">
+<img src="./Logo/hibernate-icon.png" alt="">
+<img src="./Logo/aws-icon.png" alt="">
+<img src="./Logo/git.png" alt="">
 
 ![Logo](https://github-readme-stats.vercel.app/api?username=Shubham-Dandekar&theme=default&hide_border=false&include_all_commits=false&count_private=false)
 ![Logo](https://github-readme-streak-stats.herokuapp.com/?user=Shubham-Dandekar&theme=default&hide_border=false)
